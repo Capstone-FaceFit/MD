@@ -12,7 +12,7 @@ This repository contains the android development for the FaceFit Application, de
 
 ## Preview
 ### 📹 Demo Video
-You can watch in [here](https://github.com/Capstone-FaceFit) on youtube
+You can watch in [here]([https://github.com/Capstone-FaceFit](https://youtu.be/OG0MaUfgcLI)) on youtube
 
 ### 📱 Screenshots
 <div>
